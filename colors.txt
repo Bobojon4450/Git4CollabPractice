@@ -1,5 +1,6 @@
 white
 black
 gold
-dev color
-master color
+myca
+cyan
+silver blue
