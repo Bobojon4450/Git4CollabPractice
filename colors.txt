@@ -4,3 +4,5 @@ gold
 myca
 cyan
 silver blue
+reddish
+brown
