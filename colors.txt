@@ -10,5 +10,6 @@ cherry blossom
 navy blue
 light blue
 golden pink
+feature color
 master color
 third color
