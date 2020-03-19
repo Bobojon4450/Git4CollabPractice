@@ -10,3 +10,4 @@ cherry blossom
 navy blue
 light blue
 golden pink
+feature color
